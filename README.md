@@ -1,2 +1,2 @@
-# expense_tracker
+# Expense Tracker
 C# &amp; ASP.NET
